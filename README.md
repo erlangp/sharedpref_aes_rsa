@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/erlangp/sharedpref_aes_rsa.svg)](https://jitpack.io/#erlangp/sharedpref_aes_rsa)
+
 ## How to Install
 
 ```groovy
@@ -15,4 +17,5 @@ dependencies {
 ```
 
 More versions:
+
 https://jitpack.io/#erlangp/sharedpref_aes_rsa
